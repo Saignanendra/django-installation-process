@@ -1,0 +1,55 @@
+To install and create django and django project.
+
+STEP1: firstly you need to install python in your system. if you alreaady installed python ignore this step.
+
+    "  pip install python  "
+
+STEP2: You need to install virtualenv first. if you already installed virtualevn ignore this step.
+
+    "   pip install virtualenv  "
+
+STEP3: Now, You need to create a folder using virtualenv 
+
+    "  virtualenv filename   "   you can give any name you want in place of filename.
+
+STEP4: Now , open filename (perviously created filename). then open scripts ( scripts file is created by virutalenv at step2 )
+
+    "  cd filename " then " cd scripts "
+
+STEP5: Now,YOu need to activate env in your project file.
+
+    "  activate "  now you have activated env in your projecfile. 
+
+STEP6: its time to install django in your env.
+
+    " cd.. cd.. "  just use this cammands to go back to your env file. then 
+ 
+    " pip install django  " . you need to install django in your projectfile if you installed it in your system that does't work here.
+
+    thats why you need to install django in your projectfile env .
+
+
+STEP7: time to create your first project in django. 
+  
+    "  django-admin startproject projectname "  you can any name according to your project related name in place of projectname.
+
+
+STEP8: Check that you have install it correctly or not . TO check you need to run|execute your project.
+
+    "  python manage.py runserver " Remember this you need to check your server frequently if its running fine or not.
+
+     you will get a ip address just copy and paste it in your browser(MicrosoftEdge,GoogleChrome,Opera).
+
+     Any brower as your requirment and availability.
+
+     now , you have successfully installed django  and django project. 
+
+NOTE: THIS IS ONLY INSTALLATION PROCESS. AND TO CREATE DJANGO PROJECT NAME. THIS IS BASIC REQUIRMENTS TO INSTALL AND CREATE PROJECT.
+      ALL THE BEST TO YOUR FUTURE AND CONGRATULATIONS IN ADVANCE.
+   
+
+
+
+
+
+ 
